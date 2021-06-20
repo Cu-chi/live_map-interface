@@ -22,7 +22,7 @@
             "show": "Afficher les blips"
         },
         "connection": {
-            "title": "Connexions",
+            "title": "Connexion",
             "live-update": "Mise à jour en direct",
             "reconnect": "Reconnecter"
         },
@@ -40,7 +40,7 @@
             "title": "Filtre",
             "disable-filter": "Désactiver le filtre",
             "filter-value": "Avec une valeur de",
-            "filter-placeholder": "Une certaine valeur"
+            "filter-placeholder": "La valeur"
         }
     },
     "blip-controls": {
